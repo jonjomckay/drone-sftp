@@ -37,7 +37,7 @@ pipeline:
     exclude: ['^.git/', '.drone.yml']
 ```
 
-## Docker
+## Building
 Build the docker image by running:
 
 ```bash
